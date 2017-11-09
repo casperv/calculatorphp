@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<winginx>
+  <project>
+    <name>calculator1</name>
+    <url>http://calculator1/</url>
+    <root>home/calculator1</root>
+  </project>
+</winginx>
